@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Resume 2023"
+date:   2023-03-07 10:25:22 +0900
+categories: jekyll update
+---
+### JavaScript, React, Ruby, HTML5, CSS3, NodeJS
+## Experience
+### Senior Software Engineer, Loop Commerce/Synchrony Financial
+##### Mountain View CA 2019 JUL - 2022 DEC
+#### Migration from Backbone to React
+- Create react components for reusability and lighter weight, organize code and files for better developer experience.
+
+#### Digital Point of Sales project - Vanilla JavaScript
+- Implement a feature that suggests consumers monthly payment offers that will live on retail store’s webpages to increase merchants’ revenue.
+
+#### Corporate Gifting Platform development - React
+- Added corporate gifting feature on an existing portal to help companies to give out their employees gifts.
+
+#### GiftNow implementation on retail store product pages - jQuery, Vanilla JavaScript
+- Implemented a button to start a gift send flow and fixed bugs, refactored old codes and enhanced functionalities.
+
+### Software Engineer, LG Silicon Valley Lab
+##### Santa Clara, CA 2018 JUN - 2019 JUN
+#### Web App for configuration of self-driving car simulator - React
+- Built from scratch to working version. Worked and tested with simulator team to make sure it works well with it. 
+
+#### React component library
+- Implemented React components while focusing on developer experience and user friendly design.
+- Built a sample application for cars with the components for a demo at CES 2019.
+- Built service layer to serve backend for multiple screens of the car app with node js and sqlite3.
+
+### Software Developer, IBM
+##### Toronto, Canada 2015 SEP - 2018 MAY
+#### Business Analytics UI toolkit - ReactJS component library
+- Worked on building components as discussing with designers and consumers and ranked #1 for fixing defects.
+
+#### Reporting and analytical web application for marketers - Angular 4 and Typescript
+- Was instrumental in the success of the GA release and the subsequent releases.
+- Led chart edit development working with designers and the other developers to create a better user experience. - Deliberated about problematic technical issues that could arise.
+- Wrote tests suing Protractor, Karma and Jasmine.
+
+#### Watson Customer Engagement Charting library - D3
+- Implemented bar, line, stacked bar, and combo charts with clickable data points, resizable, expandable legend
+options, truncated axis labels and tick labels with tooltips with hover effects, etc.
+- Built for a project, and made it modular so that it’s available for the whole division (Watson customer engagement).
+
+### Education
+#### University of British Columbia, BC, Canada 2014 MAY
+Electrical Engineering with Biomedical option
