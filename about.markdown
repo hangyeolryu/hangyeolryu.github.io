@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+안녕하세요. 한결이에요.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+과거 경험들을 돌아보고 현재의 나를 들여다 봅니다.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+그리고 미래의 나를 만들어갑니다.
 
 
-[jekyll-organization]: https://github.com/jekyll
+- 어린이들과 학부모를 위한 웹앱을 기획하고 있습니다.
+- 매일 하는 **#운동찰렌지** 진행 중 입니다.
+- 영상 편집을 배우고 있습니다.
+- 2023 5.18-6.14 유럽여행이 계획되어 있습니다.

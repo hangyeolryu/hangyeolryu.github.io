@@ -21,11 +21,10 @@
 title: HanGyeol Ryu
 email: hangyeolryu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software engineer, N잡러 꿈나무;
-  무엇이던 도전합니다.
+  올해 무엇이든 도전할 Software engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://gmail.com
-# twitter_username: jekyllrb
+linkedin_username: hangyeolryu
 github_username:  hangyeolryu
 
 # Build settings
